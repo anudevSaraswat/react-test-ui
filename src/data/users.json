@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Maria Skłodowska-Curie",
+        "imageID": "szV5sdGs",
+        "numberOfAwards": 4,
+        "awards": [
+            "Nobel Prize in Physics",
+            "Nobel Prize in Chemistry",
+            "Davy Medal",
+            "Matteucci Medal"
+        ],
+        "profession": "Physicist and Chemist",
+        "discovery": "Polonium (Chemical element)"
+    },
+    {
+        "name": "Katsuko Saruhashi",
+        "imageID": "YfeOqp2",
+        "numberOfAwards": 2,
+        "awards": [
+            "Miyake Prize for geochemistry",
+            "Tanaka Prize"
+        ],
+        "profession": "Geochemist",
+        "discovery": "A method for measuring carbon dioxide in seawater"
+    },
+    {
+        "name": "Albert Einstein",
+        "imageID": "",
+        "numberOfAwards": 2,
+        "awards": [
+            "Gold medal of the Royal Astronomical Society",
+            "Nobel Prize in Physics"
+        ],
+        "profession": "Physicist and Chemist",
+        "discovery": "Theory of Relativity"
+    }
+]
