@@ -2,13 +2,11 @@ import { Profile } from "./Profile"
 import data from "./data/users.json"
 
 export function Gallery() {
-    let users = [];
-    data.forEach((user) => {
-        users.push(<Profile person={user} size={50}></Profile>)
-    })
+    let users = data.filter(user => user.numberOfAwards === 2)
+    let listItems = users.map(user => <Profile person={user} size={50}></Profile>) 
     return (
         <div>
-            {users}
+            {listItems}
         </div>
     )
 }
