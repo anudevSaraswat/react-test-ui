@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Maria Skłodowska-Curie",
         "imageID": "szV5sdGs",
         "numberOfAwards": 4,
@@ -13,6 +14,7 @@
         "discovery": "Polonium (Chemical element)"
     },
     {
+        "id": 2,
         "name": "Katsuko Saruhashi",
         "imageID": "YfeOqp2",
         "numberOfAwards": 2,
@@ -24,6 +26,7 @@
         "discovery": "A method for measuring carbon dioxide in seawater"
     },
     {
+        "id": 3,
         "name": "Albert Einstein",
         "imageID": "",
         "numberOfAwards": 2,
