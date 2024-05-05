@@ -1,5 +1,6 @@
 import './App.css';
 import {Gallery} from './Gallery';
+import {Button} from './Button';
 
 function App() {
   return (
@@ -21,6 +22,9 @@ function App() {
       // </div>
       <div>
         <Gallery/>
+        <Button message="This is an alert!">
+          Click me for alert!
+        </Button>
       </div>
   );
 }

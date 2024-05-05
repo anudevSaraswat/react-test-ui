@@ -1,10 +1,12 @@
-export function Button({ message }) {
+export function Button({ message, children }) {
     
     function handleClick() {
         alert(message)
     }
     
     return (
-        <button onClick={handleClick}></button>
+        <button onClick={handleClick}>
+            {children}
+        </button>
     )
 }
